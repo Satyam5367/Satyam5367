@@ -1,52 +1,72 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam!;DevOps+%7C+Cloud+Computing+%7C+Cybersecurity+Enthusiast;Let's+build+amazing+things+together+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Welcome to My GitHub Profile! 🚀</h1>
-
----
-
-- 👀 I’m interested in **DevOps, Cloud Computing, Cybersecurity**
-- 🌱 I’m currently learning **Kubernetes, Prometheus, and Advanced GitHub Actions**
-- 💬 Ask me about **CI/CD pipelines, Docker, Kubernetes, Monitoring**
-- 💞️ I’m looking to collaborate on **open-source DevOps projects and hackathons**
-- 📫 Reach me at: **[your.email@example.com]** or connect on [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I automate my life as much as possible! ⚙️**
-
----
-
-### 🛠️ Tools, Technologies & Platforms:
+<h1 align="center">Hi 👋, I'm Satyam</h1>
+<h3 align="center">A passionate Developer & Tech Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://komarev.com/ghpvc/?username=satyam5367&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam5367&show_icons=true&theme=tokyonight" alt="Satyam's GitHub Stats" />
-</p>
+- 🔭 I’m currently working on **Web Development and DevOps Projects**
+- 🌱 I’m currently learning **Docker, Kubernetes, and CI/CD Pipelines**
+- 👯 I’m looking to collaborate on **Open-source Projects**
+- 🤝 I'm available for **Freelance Projects**
+- 📫 How to reach me: **satyamkrop123ok@gmail.com**
+- 😄 Fun fact: **I enjoy solving real-world tech problems like puzzles!**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam5367&theme=tokyonight" alt="Satyam's GitHub Streak" />
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam5367&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam5367&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam5367&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
+### 📚 Projects
+
+- 🚧 Portfolio Website *(Coming Soon)* 
+- 🔐 Cybersecurity Mini-Projects
+- 💊 Online Pharmacy Mini Project (HTML/CSS/Bootstrap/jQuery)
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="mailto:satyamkrop123ok@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/satyam5367"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> Debugging is like being the detective in a crime movie where you are also the murderer! 🕵️‍♂️🔎
+
+---
