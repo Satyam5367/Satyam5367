@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">A passionate Developer & Tech Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+<h3 align="center">A passionate Developer & Tech Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyam5367&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Web Development and DevOps Projects**
+- 🔭 I’m currently working on **Data Structures and Algorithms, Web Development and DevOps Projects**
 - 🌱 I’m currently learning **Docker, Kubernetes, and CI/CD Pipelines**
 - 👯 I’m looking to collaborate on **Open-source Projects**
 - 🤝 I'm available for **Freelance Projects**
