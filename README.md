@@ -230,15 +230,7 @@ Simulated over **3000+ Order Lifecycles**
 
 ---
 
-# 🏅 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=satyam5367&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
 
 # 📊 Coding Profiles
 
