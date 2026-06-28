@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | NLP • Generative AI • Java Developer
+AI & Machine Learning Enthusiast | NLP • Generative AI • Aspiring Software Engineer
 </h3>
 
 <p align="center">
